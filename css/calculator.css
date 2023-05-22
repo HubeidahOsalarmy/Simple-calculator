@@ -14,6 +14,7 @@ body {
   justify-content: center;
   height: 100vh;
 }
+
 .wrapper {
     width: 400px;
   background-color: white;
@@ -53,6 +54,12 @@ body {
     margin-bottom: 10px;
     margin-left: 5px;
 }
+.calc-buttonC:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-buttonC:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-buttonL {
     width: 22%;
     height: 100px;
@@ -64,6 +71,12 @@ body {
     border-radius: 20px;
     margin-right: 5px;
 }
+.calc-buttonL:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-buttonL:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-buttonD {
     width: 22%;
     background-color: white;
@@ -74,6 +87,15 @@ body {
     border-radius: 20px;
     margin-right: 5px;
     color: rgb(253, 17, 56);
+}
+.calc-buttonD:hover {
+    background-color: rgb(228, 21, 55);
+    color: whitesmoke;
+}
+.calc-buttonD:active {
+    background-color: rgb(241, 79, 106);
+    color: whitesmoke;
+
 }
 .calc-button7 {
     width: 22%;
@@ -87,6 +109,12 @@ body {
     margin-bottom: 10px;
     margin-left: 5px;
 }
+.calc-button7:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button7:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-button8 {
     width: 22%;
     height: 100px;
@@ -98,6 +126,12 @@ body {
     margin-right: 5px;
     margin-bottom: 10px;
 }
+.calc-button8:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button8:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-button9 {
     width: 22%;
     height: 100px;
@@ -107,6 +141,12 @@ body {
     border: 2px solid black;
     background-color: pink;
     border-radius: 20px;
+}
+.calc-button9:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button9:active {
+    background-color: rgb(241, 79, 106);
 }
 .calc-buttonT {
     width: 22%;
@@ -119,6 +159,16 @@ body {
     border-radius: 20px;
     color: rgb(253, 17, 56);
 }
+.calc-buttonT:hover {
+    background-color: rgb(228, 21, 55);
+    color: whitesmoke;
+
+}
+.calc-buttonT:active {
+    background-color: rgb(241, 79, 106);
+    color: whitesmoke;
+
+}
 .calc-button4 {
     width: 22%;
     height: 100px;
@@ -130,6 +180,12 @@ body {
     margin-bottom: 10px;
     margin-left: 5px;
 }
+.calc-button4:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button4:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-button5 {
     width: 22%;
     height: 100px;
@@ -140,6 +196,12 @@ body {
     margin-right: 5px;
     margin-bottom: 10px;
 }
+.calc-button5:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button5:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-button6 {
     width: 22%;
     height: 100px;
@@ -149,6 +211,12 @@ body {
     border: 2px solid black;
     background-color: pink;
     border-radius: 20px;
+}
+.calc-button6:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button6:active {
+    background-color: rgb(241, 79, 106);
 }
 .calc-buttonM {
     width: 22%;
@@ -161,6 +229,16 @@ body {
     border-radius: 20px;
     color: rgb(253, 17, 56);
 }
+.calc-buttonM:hover {
+    background-color: rgb(228, 21, 55);
+    color: whitesmoke;
+
+}
+.calc-buttonM:active {
+    background-color: rgb(241, 79, 106);
+    color: whitesmoke;
+
+}
 .calc-button1 {
     width: 22%;
     height: 100px;
@@ -172,6 +250,12 @@ body {
     margin-bottom: 10px;
     margin-left: 5px;
 }
+.calc-button1:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button1:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-button2 {
     width: 22%;
     height: 100px;
@@ -181,6 +265,12 @@ body {
     border-radius: 20px;
     margin-right: 5px;
     margin-bottom: 10px;
+}
+.calc-button2:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button2:active {
+    background-color: rgb(241, 79, 106);
 }
 .calc-button3 {
     width: 22%;
@@ -192,6 +282,12 @@ body {
     margin-right: 5px;
     margin-bottom: 10px;
 }
+.calc-button3:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button3:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-buttonP {
     width: 22%;
     background-color: white;
@@ -201,6 +297,16 @@ body {
     border: 2px solid black;
     border-radius: 20px;
     color: rgb(253, 17, 56);
+}
+.calc-buttonP:hover {
+    background-color: rgb(228, 21, 55);
+    color: whitesmoke;
+
+}
+.calc-buttonP:active {
+    background-color: rgb(241, 79, 106);
+    color: whitesmoke;
+
 }
 .calc-button0 {
     width: 72%;
@@ -213,6 +319,12 @@ body {
     border-radius: 20px;
     margin-left: 5px;
 }
+.calc-button0:hover {
+    background-color: rgb(228, 21, 55);
+}
+.calc-button0:active {
+    background-color: rgb(241, 79, 106);
+}
 .calc-buttonE {
     width: 22%;
     background-color: white;
@@ -221,5 +333,15 @@ body {
     border: 2px solid black;
     border-radius: 20px;
     color: rgb(253, 17, 56);
+}
+.calc-buttonE:hover {
+    background-color: rgb(228, 21, 55);
+    color: whitesmoke;
+
+}
+.calc-buttonE:active {
+    background-color: rgb(241, 79, 106);
+    color: whitesmoke;
+
 }
 
